@@ -5,7 +5,6 @@
 
 ### Reference from
 https://github.com/roshan9419/PersonalAssistantChatbot.git
-main authour: @roshan9419( https://github.com/roshan9419 )
 
 #### Watch the demo here 👇👇👇
 https://www.youtube.com/watch?v=tbw7VyBGSw0
@@ -247,8 +246,9 @@ https://drive.google.com/file/d/1h-v6Ub5E2BMy6LTgl398lmoTlhr0KWvj/view?usp=shari
 
 ## Authors
 
- **roshan9419** 
- **advithya**
+
+ ** @roshan9419( https://github.com/roshan9419 ) **
+ **Advithiya V**
 
 See also the list of [contributors](https://github.com/roshan9419/PersonalAssistantChatbot/graphs/contributors) who have participated in this project.
 
